@@ -3,7 +3,7 @@ Welcome to my personal portfolio website showcasing my software engineering proj
 
 ## About Me
 
-Hi, I'm **Markedia**, also known as **Moka**, a ever-evolving software engineer with experience in full-stack development. I specialize in creating clean, functional, and user-centered applications using technologies like JavaScript, React, Node.js, and more. I'm always eager to learn, explore new tools, and solve real-world problems through code.
+Hi, I'm **Markedia**, also known as **Moka**, an ever-evolving software engineer with experience in full-stack development. I specialize in creating clean, functional, and user-centered applications using technologies like JavaScript, React, Node.js, and more. I'm always eager to learn, explore new tools, and solve real-world problems through code.
 
 ## Projects
 
